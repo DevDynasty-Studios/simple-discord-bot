@@ -16,4 +16,4 @@ How to run the bot:
 - At last run "npm ./index.js" to start your bot.
 
 
-Now you have a bot with a "/command" Command to earn your developer badge.
+Now you have a bot with a "/command" Command to earn your developer badge. :)
