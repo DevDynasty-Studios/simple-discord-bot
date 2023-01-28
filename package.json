@@ -1,0 +1,18 @@
+{
+  "name": "simple-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CorruptedVeit",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^14.7.0"
+  }
+}
