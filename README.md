@@ -1,5 +1,10 @@
 # simple-discord-bot
 
+Dependencies:
+  - Any Code-Editor like VSC, VS, WebStorm or else.
+  - NodeJS v14+ and NPM
+  - discord.js
+
 How to run the bot:
 - Open console, navigate to the project folder
 - Run "npm install"
